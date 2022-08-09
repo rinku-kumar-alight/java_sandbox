@@ -1,3 +1,5 @@
+package com.sonar;
+
 // Java Program for taking user
 // input using BufferedReader Class
 import java.io.*;
