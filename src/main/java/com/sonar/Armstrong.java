@@ -4,7 +4,7 @@ public class Armstrong {
 
     public static void main(String[] args) {
 
-        int number = 371, originalNumber, remainder, result = 0;
+        int number = 321, originalNumber, remainder, result = 0;
 
         originalNumber = number;
 
